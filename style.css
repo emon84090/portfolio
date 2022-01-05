@@ -67,3 +67,59 @@ section{
 .dream-right-content h1 {
     margin-bottom: 15px;
 }
+
+#experince{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+#experince h1{
+    margin-bottom: 30px;
+}
+.experince-box h4{
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.experince-box h2 {
+    font-size: 35px;
+}
+
+.experince-box {
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+    padding-bottom: 100px;
+    padding-left: 12px;
+    padding-right: 11PX;
+    padding-top: 25px;
+    height: 80%;
+    border-left: 5px solid;
+    border-image: linear-gradient(tomato,tomato);
+    border-image-slice: 1;
+    
+}
+.experince-box.box2{
+  
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+
+.experince-box h4 {
+    color: orange;
+}
+.experince-box p{
+    color: grey;
+    
+    font-size: 17px;
+}
+
+.footer p{
+    color: grey;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 36px;
+    padding-bottom: 13px;
+}
