@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+h3{
+    margin-bottom: 20px;
+}
+section{
+    padding-bottom: 151px;
+}
+.banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.banner-left-text p{
+    color: grey;
+    margin-bottom: 15px;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.row{
+    display: flex;
+}
+.banner-image img{
+    width: 100%;
+    
+}
+
+.banner-left-text h1{
+    margin: 50px 0px;
+}
+
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-image img{
+    width: 100%;
+}
+
+.hire-link{
+    padding: 10px 40px;
+    color: #fff;
+    background: linear-gradient(45deg,lightsalmon,tomato);
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.dream-right-content p{
+    color: gray;
+    margin-bottom: 25px;
+}
+.dream-right-content h1 {
+    margin-bottom: 15px;
+}
