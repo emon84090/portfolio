@@ -69,9 +69,13 @@ section{
 }
 
 #experince{
+    
+}
+
+.experince-all-content{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left bottom;
+    background-position: left;
 }
 
 #experince h1{
